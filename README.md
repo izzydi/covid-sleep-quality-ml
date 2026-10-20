@@ -1,5 +1,7 @@
 # COVID-19 and Sleep Quality Analysis
 
+[![R CI](https://github.com/izzydi/covid-sleep-quality-ml/actions/workflows/r-ci.yml/badge.svg)](https://github.com/izzydi/covid-sleep-quality-ml/actions/workflows/r-ci.yml)
+
 An R-based machine-learning project exploring multi-class sleep-quality classification in data collected in the context of the COVID-19 period.
 
 ## Primary workflow
